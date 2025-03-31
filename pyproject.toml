@@ -1,14 +1,11 @@
 [tool.poetry]
 name = "lanor"
 version = "0.1.0"
-description = ""
-authors = ["Thomas Summerfield <summerfield11@hotmail.co.uk>"]
+description = "LANOR an AI agent for Hybrid Cloud Security"
 readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.12"
-torch = "^2.5.1"
-gym = "^0.26.2"
 
 
 [build-system]
